@@ -46,7 +46,7 @@ a {
     color-scheme: dark;
   }
   body {
-    color: white;
+    
     background: black;
   }
 }
@@ -64,7 +64,6 @@ a {
   .navbar {
     right: 0px;
     box-shadow: none;
-
     padding-bottom: 26px;
   }
   .player {

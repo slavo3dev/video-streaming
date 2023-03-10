@@ -1,6 +1,5 @@
 import { useState } from "react";
 import Image from "next/image";
-import icon from "public/menu-icon.ico";
 import Link from "next/link";
 import { LogoutFunc } from "lib/loginFunc";
 
@@ -12,7 +11,11 @@ export const Burger = () => {
   return (
     <div className="mobile-view flex-col absolute inset-y-0 right-0">
       <div className="overflow-hiden rounded-full w-48 h-16 mb-2 flex  hover:cursor-pointer">
-        <Image onClick={() => setDropdownOpen(!dropdownOpen)} className="absolute w-10 bottom-0 inset-y-0 right-0" src={icon} alt="" />
+        <Image onClick={() => setDropdownOpen(!dropdownOpen)} className="absolute w-10 bottom-0 inset-y-0 right-0"
+         src={"/../public/menu-icon.ico"}
+         width={10}
+         height={20}
+         alt="icon" />
       </div>
       <div
         className={`${dropdownOpen ? `top-full opacity-100 visible` : "top-[110%] invisible opacity-0"}

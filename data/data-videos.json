@@ -1,42 +1,8 @@
 {
     "creatorOne": {
-
+            "active": true, 
             "items": [
-              {
-                "kind": "youtube#searchResult",
-                "etag": "ZnQKxY3JlMH5HH8RCEkcNw7l5hY",
-                "id": {
-                  "kind": "youtube#playlist",
-                  "playlistId": "PLQ5r75vnJsmxa80-4nqzHDafYB5HfnIeM"
-                },
-                "snippet": {
-                  "publishedAt": "2021-08-12T01:30:59Z",
-                  "channelId": "UChPuCAEXg7iYkVNjQY1NGYg",
-                  "title": "FULL SEND PODCAST",
-                  "description": "",
-                  "thumbnails": {
-                    "default": {
-                      "url": "https://i.ytimg.com/vi/iqE_CSymh_M/default.jpg",
-                      "width": 120,
-                      "height": 90
-                    },
-                    "medium": {
-                      "url": "https://i.ytimg.com/vi/iqE_CSymh_M/mqdefault.jpg",
-                      "width": 320,
-                      "height": 180
-                    },
-                    "high": {
-                      "url": "https://i.ytimg.com/vi/iqE_CSymh_M/hqdefault.jpg",
-                      "width": 480,
-                      "height": 360
-                    }
-                  },
-                  "channelTitle": "FULL SEND PODCAST",
-                  "liveBroadcastContent": "none",
-                  "publishTime": "2021-08-12T01:30:59Z"
-                }
-              },
-      
+              
               {
                 "kind": "youtube#searchResult",
                 "etag": "3VYe9BTnMxdEuAqpPpfUM3wWceM",
@@ -183,7 +149,7 @@
                 "snippet": {
                   "publishedAt": "2023-01-06T01:30:09Z",
                   "channelId": "UChPuCAEXg7iYkVNjQY1NGYg",
-                  "title": "Adin Ross Reveals Real Relationship with Andrew Tate and Ishowspeed Crashes the Pod!",
+                  "title": "Adin Ross Reveals Real Relationship with Andrew Tate and Crashes the Pod!",
                   "description": "SUBSCRIBE TO NELK CHANNEL 2: https://youtu.be/KXgP4YcbvWc HAPPY DAD MERCH & STORE FINDER: ...",
                   "thumbnails": {
                     "default": {
@@ -387,7 +353,7 @@
                 "snippet": {
                   "publishedAt": "2021-12-16T02:00:11Z",
                   "channelId": "UChPuCAEXg7iYkVNjQY1NGYg",
-                  "title": "Suga Sean on his Open Relationship with his Wife &amp; Dana White Paying Fighters",
+                  "title": "Suga Sean on his Open Relationship with his Wife Camp; Dana White Paying Fighters",
                   "description": "HAPPY DAD MERCH & STORE FINDER: http://happydad.com TRY FULL SEND SUPPLEMENTS: http://supplements.co FULL ...",
                   "thumbnails": {
                     "default": {
@@ -421,7 +387,7 @@
                 "snippet": {
                   "publishedAt": "2021-08-12T01:30:11Z",
                   "channelId": "UChPuCAEXg7iYkVNjQY1NGYg",
-                  "title": "Tory Lanez on being cancelled, Drake at the Club, &amp; being his own Manager",
+                  "title": "Tory Lanez on being cancelled, Drake at the Club, Camp; being his own Manager",
                   "description": "HAPPY DAD MERCH & STORE FINDER: http://happydad.com TRY FULL SEND SUPPLEMENTS: http://supplements.co FULL ...",
                   "thumbnails": {
                     "default": {
@@ -455,7 +421,7 @@
                 "snippet": {
                   "publishedAt": "2022-02-10T18:00:11Z",
                   "channelId": "UChPuCAEXg7iYkVNjQY1NGYg",
-                  "title": "Candace Owens on Boxing Cardi B and if Trump Should Run Again",
+                  "title": "Candace Owens on Boxing Cardi B and if Trump Should Run Again for President",
                   "description": "HAPPY DAD MERCH & STORE FINDER: http://happydad.com TRY FULL SEND SUPPLEMENTS: http://supplements.co FULL ...",
                   "thumbnails": {
                     "default": {
@@ -523,7 +489,7 @@
                 "snippet": {
                   "publishedAt": "2022-01-26T20:00:09Z",
                   "channelId": "UChPuCAEXg7iYkVNjQY1NGYg",
-                  "title": "Pauly D on the Secrets of Jersey Shore and if it was Scripted",
+                  "title": "Pauly D talks about the Secrets of Jersey Shore and if it was Scripted",
                   "description": "HAPPY DAD MERCH & STORE FINDER: http://happydad.com TRY FULL SEND SUPPLEMENTS: http://supplements.co FULL ...",
                   "thumbnails": {
                     "default": {
@@ -1004,7 +970,7 @@
               "snippet": {
                 "publishedAt": "2017-01-16T23:24:59Z",
                 "channelId": "UCmh5gdwCx6lN7gEC20leNVA",
-                "title": "$1000 LOTTERY CHALLENGE!!",
+                "title": "Crazy $1000 LOTTERY CHALLENGE!!",
                 "description": "Alex and I spend $1000 on lottery tickets.. and WIN a couple times!! Liza meets carmelita.. I scare heath... Josh makes fun of Jason ...",
                 "thumbnails": {
                   "default": {
@@ -1208,7 +1174,7 @@
               "snippet": {
                 "publishedAt": "2016-10-12T21:13:34Z",
                 "channelId": "UCmh5gdwCx6lN7gEC20leNVA",
-                "title": "ANGRY KID SMASHES TV!!",
+                "title": "ANGRY KID SMASHES HIS TV!!! DAVID DOBRIK",
                 "description": "Alex once again gets angry and breaks BigNiks TV... Please go download FML!! A bunch of us make appearances in it: ...",
                 "thumbnails": {
                   "default": {
@@ -3286,238 +3252,3382 @@
           ]
     },
     "creatorFive": {
-        "kind": "youtube#videoListResponse",
-        "etag": "8mK5KQyJnVCPjnoBZk63ZWm5E9U",
-        "items": [
-          {
-            "kind": "youtube#video",
-            "etag": "bABF48nFe0VZVHXhdgQKZlqJq8E",
-            "id": "Ks-_Mh1QhMc",
-            "snippet": {
-              "publishedAt": "2012-10-01T15:27:35Z",
-              "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-              "title": "Your body language may shape who you are | Amy Cuddy",
-              "description": "Body language affects how others see us, but it may also change how we see ourselves. Social psychologist Amy Cuddy argues that \"power posing\" -- standing in a posture of confidence, even when we don't feel confident -- can boost feelings of confidence, and might have an impact on our chances for success. (Note: Some of the findings presented in this talk have been referenced in an ongoing debate among social scientists about robustness and reproducibility. Read Amy Cuddy's response here: http://ideas.ted.com/inside-the-debate-about-power-posing-a-q-a-with-amy-cuddy/)\n\nGet TED Talks recommended just for you! Learn more at https://www.ted.com/signup.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.\n\nFollow TED on Twitter: http://www.twitter.com/TEDTalks\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: https://www.youtube.com/TED",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/Ks-_Mh1QhMc/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
-              "channelTitle": "TED",
-              "tags": [
-                "Amy Cuddy",
-                "TED",
-                "TEDTalk",
-                "TEDTalks",
-                "TED Talk",
-                "TED Talks",
-                "TEDGlobal",
-                "brain",
-                "business",
-                "psychology",
-                "self",
-                "success"
-              ],
-              "categoryId": "22",
-              "liveBroadcastContent": "none",
-              "defaultLanguage": "en",
-              "localized": {
-                "title": "Your body language may shape who you are | Amy Cuddy",
-                "description": "Body language affects how others see us, but it may also change how we see ourselves. Social psychologist Amy Cuddy argues that \"power posing\" -- standing in a posture of confidence, even when we don't feel confident -- can boost feelings of confidence, and might have an impact on our chances for success. (Note: Some of the findings presented in this talk have been referenced in an ongoing debate among social scientists about robustness and reproducibility. Read Amy Cuddy's response here: http://ideas.ted.com/inside-the-debate-about-power-posing-a-q-a-with-amy-cuddy/)\n\nGet TED Talks recommended just for you! Learn more at https://www.ted.com/signup.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.\n\nFollow TED on Twitter: http://www.twitter.com/TEDTalks\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: https://www.youtube.com/TED"
-              },
-              "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-              "duration": "PT21M3S",
-              "dimension": "2d",
-              "definition": "hd",
-              "caption": "true",
-              "licensedContent": true,
-              "contentRating": {},
-              "projection": "rectangular"
-            },
-            "statistics": {
-              "viewCount": "22466781",
-              "likeCount": "369191",
-              "favoriteCount": "0",
-              "commentCount": "9397"
-            }
+  "kind": "youtube#searchListResponse",
+  "etag": "WJeaWecUZXTTuY_fcXu_xtx7u0E",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 84,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ObdRExsewOrHrvn70YU-nYdddk0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qLta9C3gekk"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-06T10:00:34Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "Garrett McNamara Is Surfing The Planet&#39;s Biggest Waves | Rich Roll Podcast",
+        "description": "Rich Roll sits down with legendary surfer Garrett McNamara to talk about the mindset and spiritual tools that help him surf some of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qLta9C3gekk/default.jpg",
+            "width": 120,
+            "height": 90
           },
-          {
-            "kind": "youtube#video",
-            "etag": "EdMiQO6DCJqcUo6HIUBIfEOW7RE",
-            "id": "c0KYU2j0TM4",
-            "snippet": {
-              "publishedAt": "2012-03-02T19:03:16Z",
-              "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-              "title": "The power of introverts | Susan Cain",
-              "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nIn a culture where being social and outgoing are prized above all else, it can be difficult, even shameful, to be an introvert. But, as Susan Cain argues in this passionate talk, introverts bring extraordinary talents and abilities to the world, and should be encouraged and celebrated.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
-              "channelTitle": "TED",
-              "tags": [
-                "Susan Cain",
-                "culture",
-                "psychology",
-                "introvert",
-                "Quiet",
-                "Power of Introverts Book",
-                "extravert",
-                "TED",
-                "TED2012",
-                "TEDTalk",
-                "TEDTalks",
-                "TED Talk",
-                "TED Talks"
-              ],
-              "categoryId": "22",
-              "liveBroadcastContent": "none",
-              "defaultLanguage": "en",
-              "localized": {
-                "title": "The power of introverts | Susan Cain",
-                "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nIn a culture where being social and outgoing are prized above all else, it can be difficult, even shameful, to be an introvert. But, as Susan Cain argues in this passionate talk, introverts bring extraordinary talents and abilities to the world, and should be encouraged and celebrated.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com"
-              }
-            },
-            "contentDetails": {
-              "duration": "PT19M5S",
-              "dimension": "2d",
-              "definition": "hd",
-              "caption": "true",
-              "licensedContent": true,
-              "contentRating": {},
-              "projection": "rectangular"
-            },
-            "statistics": {
-              "viewCount": "14649688",
-              "likeCount": "376948",
-              "favoriteCount": "0",
-              "commentCount": "18646"
-            }
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qLta9C3gekk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
           },
-          {
-            "kind": "youtube#video",
-            "etag": "AtMj6t1_eeWveSsiaKHui7hjNF4",
-            "id": "eIho2S0ZahI",
-            "snippet": {
-              "publishedAt": "2014-06-27T15:10:18Z",
-              "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-              "title": "How to speak so that people want to listen | Julian Treasure",
-              "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nHave you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/eIho2S0ZahI/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/eIho2S0ZahI/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/eIho2S0ZahI/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/eIho2S0ZahI/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/eIho2S0ZahI/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
-              "channelTitle": "TED",
-              "tags": [
-                "TEDTalk",
-                "TEDTalks",
-                "TED Talk",
-                "TED Talks",
-                "TED",
-                "Julian Treasure",
-                "culture",
-                "sound",
-                "speech",
-                "TEDGlobal"
-              ],
-              "categoryId": "26",
-              "liveBroadcastContent": "none",
-              "defaultLanguage": "en",
-              "localized": {
-                "title": "How to speak so that people want to listen | Julian Treasure",
-                "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nHave you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com"
-              }
-            },
-            "contentDetails": {
-              "duration": "PT9M59S",
-              "dimension": "2d",
-              "definition": "hd",
-              "caption": "true",
-              "licensedContent": true,
-              "contentRating": {},
-              "projection": "rectangular"
-            },
-            "statistics": {
-              "viewCount": "35763545",
-              "likeCount": "715190",
-              "favoriteCount": "0",
-              "commentCount": "10086"
-            }
+          "high": {
+            "url": "https://i.ytimg.com/vi/qLta9C3gekk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
           }
-        ],
-        "pageInfo": {
-          "totalResults": 3,
-          "resultsPerPage": 3
-        }
-    }  
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-06T10:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8va-v0NJ--kiu1VKP6KgwXapyxg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9HZUoE3u7rs"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-06T18:45:00Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "Fear Does Not Exist | Garrett McNamara",
+        "description": "Rich Roll sits down with legendary surfer Garrett McNamara to talk about the mindset and spiritual tools that help him surf some of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9HZUoE3u7rs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9HZUoE3u7rs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9HZUoE3u7rs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-06T18:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YM8o1Q0npsVpCMtrAIQVQbKwrhI",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLNlNx9Di_AxuSvXu4xRiy6qfx8KY-J-C9"
+      },
+      "snippet": {
+        "publishedAt": "2012-12-02T01:57:43Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "The Rich Roll Podcast",
+        "description": "Watch the full episodes of The Rich Roll Podcast.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bj0lFTdoEzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bj0lFTdoEzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bj0lFTdoEzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-12-02T01:57:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Quz0NBg75v9YJP3UtpPdndh_tho",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VjnjoHwxGVM"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-07T10:00:07Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "Laird Hamilton&#39;s Relentless Pursuit of The Edge | Rich Roll Podcast",
+        "description": "Thanks for watching! Read all about Laird here https://bit.ly/richroll564 Today big wave demigod and global fitness icon Laird ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VjnjoHwxGVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VjnjoHwxGVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VjnjoHwxGVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-07T10:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GzK7NVJEyHUruzsEwlZ8nrJ6wQg",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw"
+      },
+      "snippet": {
+        "publishedAt": "2007-12-31T15:36:56Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "Rich Roll",
+        "description": "Thanks for stopping by! I used to be an unhealthy corporate lawyer. At 40 I decided to change my life. I switched to a 100% ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/UXI7ZyoQPoHhboBBUD8pscuva2dd-hlTxMjRDHVg96eoHOfiru5CFoWvkVe8pFiyvlB33_ceow=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/UXI7ZyoQPoHhboBBUD8pscuva2dd-hlTxMjRDHVg96eoHOfiru5CFoWvkVe8pFiyvlB33_ceow=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/UXI7ZyoQPoHhboBBUD8pscuva2dd-hlTxMjRDHVg96eoHOfiru5CFoWvkVe8pFiyvlB33_ceow=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2007-12-31T15:36:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wzhtmVYUrG5h_NUzaTnqd2WB248",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UmN2nDjJ1BQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T17:30:05Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "Anything Is Possible | Nicole McNamara",
+        "description": "Rich Roll sits down with legendary surfer Garrett McNamara and his wife Nicole to talk about the mindset and spiritual tools that ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UmN2nDjJ1BQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UmN2nDjJ1BQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UmN2nDjJ1BQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T17:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Epowr8ZqRp_g5HTxrpPAOdT5mC8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X5jKdbF7Zbs"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-07T18:45:00Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "For Those Discontent | Garrett McNamara",
+        "description": "Rich Roll sits down with legendary surfer Garrett McNamara to talk about the mindset and spiritual tools that help him surf some of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X5jKdbF7Zbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X5jKdbF7Zbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X5jKdbF7Zbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-07T18:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y73EsfIWcK5WauDKkCJp2srS8JY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_LQ67RQXlhU"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-12T09:00:25Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "The Action Sports Evangelist: Selema Masekela | Rich Roll Podcast",
+        "description": "X-Games host, Emmy-nominated producer, musician & action sports preacher Selema Masekela joins Rich for a discussion on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_LQ67RQXlhU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_LQ67RQXlhU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_LQ67RQXlhU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-12T09:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SbJSMZTfzRm1P8IQMFw_yk5-y1s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kjoCoHnfNAE"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-14T10:00:23Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "Tony Riddle&#39;s Natural Lifestyle TOOLS FOR OPTIMUM HEALTH, Happiness &amp; Vitality | Rich Roll Podcast",
+        "description": "Rich Roll sits down with barefoot ultra fiend Tony Riddle to talk about his unique training regime & the ways a natural lifestyle can ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kjoCoHnfNAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kjoCoHnfNAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kjoCoHnfNAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-14T10:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N6OtqOirtm5vSUkJUlQxcXnxXOU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nCf-KJOxKAU"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-04T22:20:36Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "The Soul of Free Solo Climbing: Alex Honnold",
+        "description": "Alex Honnold is a renowned professional adventure rock climber whose audacious free-solo ascents of America's biggest cliffs ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nCf-KJOxKAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nCf-KJOxKAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nCf-KJOxKAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-04T22:20:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wYKCiWGLg5gTduXAmTiDDIWzDJs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZsQ_3KJPeEw"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-11T17:00:24Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "ROLL ON: Fatherhood, Face-Off &amp; The FAR Event NYC | Rich Roll Podcast",
+        "description": "The Adam-Brogan faceoff we've all been waiting for is here. Today the enemies become bros, and we swap thoughts on new dad ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZsQ_3KJPeEw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZsQ_3KJPeEw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZsQ_3KJPeEw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-11T17:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dnTaxRWTvKlyvO_4ga7BDm_uLFs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6EW2Tiv5AIA"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-19T08:00:02Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "Crusading Against The Mundane: Chris Burkard | Rich Roll Podcast",
+        "description": "To read more about Chris & peruse the full show notes http://bit.ly/richroll554 Chris Burkard is many things -- a photographer, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6EW2Tiv5AIA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6EW2Tiv5AIA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6EW2Tiv5AIA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-19T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yA4Td_LoCMCybQxP3IqKaFJj7Tc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y1s6sgcGkLI"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-04T10:00:12Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "A Navy SEAL Commander On How To Optimize Performance | Rich Roll Podcast",
+        "description": "Thanks for watching! Read all about Rich Diviney here https://bit.ly/richroll571 Rich Diviney is a former Navy SEAL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y1s6sgcGkLI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y1s6sgcGkLI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y1s6sgcGkLI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-04T10:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pxGVqCf8BVSMrbHbzRy3MWWHpAc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PS9OUF_lhFc"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-07T10:00:21Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "This Guy Is Relentless",
+        "description": "Director + YouTube legend Casey Neistat joins Rich to talk about his unique creative process, the dangers of a society that values ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PS9OUF_lhFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PS9OUF_lhFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PS9OUF_lhFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-07T10:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SeSxYWZ3CK0r_SCnoeXjlISHQfI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9bVV8YVK930"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-18T10:00:03Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "Why We Swim: Bonnie Tsui | Rich Roll Podcast",
+        "description": "Bonnie Tsui is the author of 'Why We Swim,' an exploration of humankind's relationship with water that made TIME magazine's list ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9bVV8YVK930/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9bVV8YVK930/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9bVV8YVK930/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-18T10:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XL_wzscbwE3ewUNx4SQ0EEEZeoI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ptXcoU9cGKo"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-15T09:00:33Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "Roll On: Life Lessons Learned From 10 Years of Podcasting | Rich Roll Podcast",
+        "description": "Rich Roll & Adam Skolnick talk endurance news, answer listener q's, and share lessons learned and big truths understood after ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ptXcoU9cGKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ptXcoU9cGKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ptXcoU9cGKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-15T09:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SCQ-yIMbq2AjvBB9bRxMc-PNao4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nQEXNUy-IIA"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-29T09:00:09Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "Alex Honnold: Olympic Climbing, Environmental Activism &amp; Post-Oscar Adventure | Rich Roll Podcast",
+        "description": "Legendary 'Free Solo' climber Alex Honnold joins Rich to discuss sustainability, solar power, the Olympic future of climbing, his ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nQEXNUy-IIA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nQEXNUy-IIA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nQEXNUy-IIA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-29T09:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UwCp_Kk777fa2E5yeTEA2pvd0N0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NtTxydvESxk"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-12T08:00:07Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "Swimming with Great Whites: Michael Muller | Rich Roll Podcast",
+        "description": "To read more about Michael & peruse the full show notes, go here     https://bit.ly/richroll552 Michael Muller is Hollywood's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NtTxydvESxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NtTxydvESxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NtTxydvESxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-12T08:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VQ8z8k2YABP_cte_ith2ZzWA2s0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NXzznbl-KB4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-23T09:00:06Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "CULTIVATE YOUR SECOND WAVE &amp; Become A Modern Elder w/ Chip Conley | Rich Roll Podcast",
+        "description": "Hospitality entrepreneur & Modern Elder Academy founder Chip Conley joins Rich to talk about navigating midlife transitions, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NXzznbl-KB4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NXzznbl-KB4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NXzznbl-KB4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-23T09:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ozimfkqqxb1XQp5lFxrcqKvsHUw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hIec2i7jDFA"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-06T09:00:22Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "A Tribute To Hilaree Nelson | Re-Release of 364 | Rich Roll Podcast",
+        "description": "This is an incredible conversation about fear, risk resilience, adventure and potential. It's about balancing the pull of adventure ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hIec2i7jDFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hIec2i7jDFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hIec2i7jDFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-06T09:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y09pf_RcTVi_K53Jezw9Z6QAukc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oZyYHRYFyNQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-15T01:03:42Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "How Andy Puddicombe Became the Modern Voice of Meditation &amp; Mindfulness | Rich Roll Podcast",
+        "description": "Vegan ultra-athlete and bestselling author Rich Roll talks with Headspace founder Andy Puddicombe about how he became the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oZyYHRYFyNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oZyYHRYFyNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oZyYHRYFyNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-15T01:03:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wjsJSI0ryIyHomDAiGuunSamRHo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fjVyHOzQeNs"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-27T10:00:13Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "Best of 2021: Part 2 | Rich Roll Podcast",
+        "description": "It's time for part 2 of our 2021 'Best Of' recap series—excerpts from the year's most compelling guests. A love letter to my guests.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fjVyHOzQeNs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fjVyHOzQeNs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fjVyHOzQeNs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-27T10:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sf7OQCRnuBv8LNOxBMQdV2rwkis",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uJ0XL4Lw4Go"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-27T09:00:31Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "Why Balance Is Overrated | Rich Roll Podcast",
+        "description": "Rich Roll & Adam discuss the flaws in pursuing a balanced life, share wins of the week, and show & tell. Plus listener questions ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uJ0XL4Lw4Go/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uJ0XL4Lw4Go/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uJ0XL4Lw4Go/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-27T09:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fruM4T_km0KaVnA723Q_-X2X0JA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wCdnh0FSigs"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-30T09:00:20Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "ROLL ON: Melding Passion With Purpose + Lewis Pugh | Rich Roll Podcast",
+        "description": "Arctic swimmer & environmentalist Lewis Pugh Joins Rich & Adam for a deep dive on action and activism, plus thoughts on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wCdnh0FSigs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wCdnh0FSigs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wCdnh0FSigs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-30T09:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XcA0j6am4BWo0CSafM2LAml8qBU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9xh2K9nSuqs"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-22T09:00:03Z",
+        "channelId": "UCpjlh0e319ksmoOD7bQFSiw",
+        "title": "The Alt Tour, Bo Burnham, Space Billionaires, UFOs, David Choe, Anthony Bourdain + AMA",
+        "description": "Space-traveling billionaires. Dystopian musical comedy specials. Insane feats of endurance. And of course, UFOs. These are just ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9xh2K9nSuqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9xh2K9nSuqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9xh2K9nSuqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rich Roll",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-22T09:00:03Z"
+      }
+    }
+  ]
 }
+,
+    "creatorSix" :{
+  "kind": "youtube#searchListResponse",
+  "etag": "j3SfHlrbjr9kDRbmBpsSeZEHkSc",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 80162,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SGJZG6fqlBbcNkUbwIK52enOK9c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qREsgnAKapA"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-18T20:48:51Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Simplicity Through Surfing: Chasing A Happy Life | Tommy Burns | TEDxSageHillSchool",
+        "description": "\"You can't stop the waves, but you can learn to surf” - Jon Kabat-Zinn. Tommy Burns is no stranger to riding the waves of life.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qREsgnAKapA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qREsgnAKapA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qREsgnAKapA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-18T20:48:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rOMyeEi3r9qeSfoDpBWdlUDhcKM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p3BJriWAJRw"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-28T16:27:50Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "What Surfing Taught Me About Leadership | Rick Hansen | TEDxRexburg",
+        "description": "What keeps us engaged in the work we do and inspired and motivated by the leaders we follow? If you think it's things like the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p3BJriWAJRw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p3BJriWAJRw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p3BJriWAJRw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-28T16:27:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U7533LjitOzUslSD-oB7x8GsFI4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wfb8tHn8Xv4"
+      },
+      "snippet": {
+        "publishedAt": "2014-07-03T20:31:27Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Surfing -- infinite possibilities to heal | Carly Rogers | TEDxUCLA",
+        "description": "Carly Rogers talks about her work as an ocean lifeguard, occupational therapist and surfer utilizing surfing as a therapeutic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wfb8tHn8Xv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wfb8tHn8Xv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wfb8tHn8Xv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-07-03T20:31:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "beQfVu5haX07y-Tf755_ecJXE3A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EQIt2JUF-sg"
+      },
+      "snippet": {
+        "publishedAt": "2011-07-18T07:46:11Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "TEDxSantaCruz: Kyle Thiermann - Surfing For Change",
+        "description": "Kyle Theirmann, 21, is a pro surfer with a passion to systemically effect change. Combining surfing great waves around the world ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EQIt2JUF-sg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EQIt2JUF-sg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EQIt2JUF-sg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-07-18T07:46:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hzjr5A9zwATeLTgrGCDgm-tkp24",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tkqJmH0oEP0"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-23T17:14:49Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Surf Therapy - A wave of change | Tim Conibear | TEDxCapeTownSalon",
+        "description": "Tim Conibear is the Founding Director of Waves for Change (W4C), a Surf Therapy organisation that is looking to make the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tkqJmH0oEP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tkqJmH0oEP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tkqJmH0oEP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-23T17:14:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z3I4Uu2sYOos4BjY0mIhJHB1vAs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uRjD8qW57AE"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-18T22:13:20Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Surfing the non-coast | Paul Primus &amp; Paul Primus | TEDxBoise",
+        "description": "River surfing is gaining popularity around the world. Paul Primus shares the dual benefit of installing recreational river features to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uRjD8qW57AE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uRjD8qW57AE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uRjD8qW57AE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-18T22:13:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hj1H8nkzaowXuuwLkJz94-LXyxU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9ujW_0o8YsQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-08T17:02:54Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Surfing endless river waves | Jacob Vos | TEDxBreckenridge",
+        "description": "Providing insight into an upcoming sport, Jacob takes you on a journey to experience the essence of surfing a river—and feeling ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ujW_0o8YsQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ujW_0o8YsQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ujW_0o8YsQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-08T17:02:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wraohFLk4vtUZ6aXGOP6Qcw6W6o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5US3_eg5wNk"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-28T19:29:53Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Taking action for climate change, by surfing | Merijn Tinga | TEDxUtrecht",
+        "description": "'Plastic Soup Surfer' Merijn takes 'taking action for climate change' quite literally. His creative, innovative and adventurous ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5US3_eg5wNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5US3_eg5wNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5US3_eg5wNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-28T19:29:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5rWdTiflsioLZSlCBeWTcEIcGDI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IZ3rOd_pTSw"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-25T18:17:26Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Big Wave Surfing: Facing fears is my job | Nic Von Rupp | TEDxCatólicaLisbonSBE",
+        "description": "Nic von Rupp is a professional Big Wave Surfer from Portugal and believes that you don't have to be some kind of superhuman to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IZ3rOd_pTSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IZ3rOd_pTSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IZ3rOd_pTSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-25T18:17:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DPiwtHbrYNxBbKhwd79tImpavBM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "83YnsBQzGM8"
+      },
+      "snippet": {
+        "publishedAt": "2013-10-08T17:54:45Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Just add surf: Easkey Britton at TEDxDublin",
+        "description": "While finishing her PhD in Marine Science Easkey began to explore the transformative power of surfing and how it can create ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/83YnsBQzGM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/83YnsBQzGM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/83YnsBQzGM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-10-08T17:54:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rt8MSZYtW3CMmPzDzoJlKrol2ZY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "clMbMCS2alE"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-13T16:45:02Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "How Can Surfers Save The World? | Jim Edmondson | TEDxBrighton",
+        "description": "Jim shares his experiences of being a part of the surfing community, whilst trying to campaign for cleaner oceans and a safer ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/clMbMCS2alE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/clMbMCS2alE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/clMbMCS2alE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-13T16:45:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mOLqpxSGUjnjvU89QKxMfQtm1PM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GEwmYk15ZcU"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-26T17:18:52Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Easiest Catch: Don&#39;t Be Another Fish in the Dark Net | Derrick Day | TEDxWakeForestU",
+        "description": "Derrick Day offered a primer on just how massive the dark web is compared to the searchable web that most people encounter.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GEwmYk15ZcU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GEwmYk15ZcU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GEwmYk15ZcU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-26T17:18:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "POizGL6cQSdh8prgdK1BhA89STo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fz8i6yQ9qLU"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-25T16:43:35Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Surfing Through My Life | Nolan Costello | TEDxYouth@Chatham",
+        "description": "Nolan's talk is meant to inspire other people to find something they love. He uses his experience with surfing to display life lessons ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fz8i6yQ9qLU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fz8i6yQ9qLU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fz8i6yQ9qLU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-25T16:43:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eimQnmnlhU3UPcSgfe8eZvW7PzE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZQUIExyjXcU"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-05T16:55:50Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Why are surfers getting sick from “clean waters”?  | Inka Reichert | TEDxCiutatVellaDeValènciaWomen",
+        "description": "Discrepancies between official water quality reports and surfer testimonials prompted journalist Inka Reichert to start researching ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZQUIExyjXcU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZQUIExyjXcU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZQUIExyjXcU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-05T16:55:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V8i4KyrEZzOlkXe8X7pqvVNau20",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lx2r0fYwDWY"
+      },
+      "snippet": {
+        "publishedAt": "2013-11-16T18:53:19Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Surprises about surfing in New Jersey: Bill Rosenblatt at TEDxNavesink",
+        "description": "Dr. Rosenblatt takes a look at the history of surfing in the Garden State, the significant contributions Jersey surfers have made to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lx2r0fYwDWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lx2r0fYwDWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lx2r0fYwDWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-11-16T18:53:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YAYad7lGl8XvK46keojt_AsH2i4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DAAfxp2NXMM"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-27T21:39:59Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Surfing the Eco-design Wave | Jack Candlish | TEDxWellington",
+        "description": "Producing surfboards from locally recycled and renewable materials that compliment the natural integrity of the sport and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DAAfxp2NXMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DAAfxp2NXMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DAAfxp2NXMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-27T21:39:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nu5_TS_dNNy2IW9lko2D_s2NKpo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YLq8aA_C9so"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-29T21:38:24Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Ebb and flow -- lessons from riding giants | Dave Kalama | TEDxMaui",
+        "description": "This talk was given at a local TEDx event, produced independently of the TED Conferences. Pioneering waterman Dave Kalama, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YLq8aA_C9so/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YLq8aA_C9so/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YLq8aA_C9so/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-12-29T21:38:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZRFtlOyQjqGfjlFrJj8VJYYxQ8s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eSvsrzPCZ5o"
+      },
+      "snippet": {
+        "publishedAt": "2014-02-03T07:58:00Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "I&#39;m Keala Kennelly and I&#39;m a Surfer: Keala Kennelly at TEDxMalibu",
+        "description": "Keala Kennelly is a professional surfer, once ranked one of the best female surfers in the world. She was recently inducted into ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eSvsrzPCZ5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eSvsrzPCZ5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eSvsrzPCZ5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-02-03T07:58:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2voogV7RlBPmapqnFwYvbDAvVmk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5Ryp6UTCeUo"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-11T19:36:22Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Surfing wakefields to create smaller accelerators | Edda Gschwendtner | TEDxCERN",
+        "description": "CERN is famous for its big machines, for studying the tiniest constituents of matter to answer the biggest questions about the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Ryp6UTCeUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Ryp6UTCeUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Ryp6UTCeUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-11T19:36:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TGVR_8yHHLt-Rzzt6vJ8m3dxy6k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mH3INUOSvCg"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-18T18:20:04Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "A taste of surfing | Ron Geertse | TEDxBreda",
+        "description": "Ron, surfaced in 1970, is a father of a son and he is a surfdude. He is educated in graphic design and worked in the Dutch ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mH3INUOSvCg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mH3INUOSvCg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mH3INUOSvCg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-18T18:20:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "htdhLBk7xEGb7_IsU-Bds_u_Ba0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KQLnGtuEM_I"
+      },
+      "snippet": {
+        "publishedAt": "2010-08-06T18:26:58Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "TEDxPalermo - Matteo Ferrari - Surfing Italian Waves",
+        "description": "Matteo is a photographer and a surfer. In 2010, together with a friend and colleague Luca Merli, his two passions eventually match ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KQLnGtuEM_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KQLnGtuEM_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KQLnGtuEM_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-08-06T18:26:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yWP80_qt4-wyP59XYlLT1JFbhq0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A_lf_E5SlJA"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-03T14:43:26Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Surfing &amp; Hawaiian Ingenuity | Isaiah Walker | TEDxLaie",
+        "description": "Native Hawaiians invented the global phenomenon of surfing more than 1000 years ago. Over the years, the evolution of surfing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A_lf_E5SlJA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A_lf_E5SlJA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A_lf_E5SlJA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-03T14:43:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BCd48_WZGk3_b0uMtpvZo1FlAZs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1hS6O5RmNDU"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-09T18:11:18Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Surfing for the future | Katherine Sutton | TEDxColegioNuevaGranada",
+        "description": "Developing your purpose in life is your contribution to building a better tomorrow for all of us. By finding her purpose in service to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1hS6O5RmNDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1hS6O5RmNDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1hS6O5RmNDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-09T18:11:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BzEtL68KvI3pr5On9srWsImvmkM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kmyuF70KRG8"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-31T14:47:53Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Turning the Tide: Pro Surfer to Regenerative Farmer | Fergal Smith | TEDxUniversityofLimerick",
+        "description": "In his TEDx talk, Fergal Smith talks about his move from professional surfing in the southern hemisphere to regenerative farming ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kmyuF70KRG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kmyuF70KRG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kmyuF70KRG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-31T14:47:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IxSbX6bQmeWW3SsPIhieckQaHGg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XK1Ubcac5Mg"
+      },
+      "snippet": {
+        "publishedAt": "2013-05-10T16:24:46Z",
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "title": "Surfing the Fluorescent Wave: Using Fluorescent Proteins to See Mouse Stem Cells Fix a Broken Heart",
+        "description": "Marc Zimmer is Professor of Physical Sciences at Connecticut College. In the spirit of ideas worth spreading, TEDx is a program of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XK1Ubcac5Mg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XK1Ubcac5Mg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XK1Ubcac5Mg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEDx Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-05-10T16:24:46Z"
+      }
+    }
+  ]
+},
+"creatorSeven" :
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "N5KVqFy2FCVcINJ0RjJGGK6WULc",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 61,
+    "resultsPerPage": 23
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1tvwmOHcZ9DT9X4aQAoDfpu2wC8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NNHgcEGDF5Q"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-21T19:23:35Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "How Shane Dorian Trained for Wipeouts on Big Waves",
+        "description": "Taken from JRE #1749 w/Shane Dorian: https://open.spotify.com/episode/5MN9ygZmciChOZZv9kQu5L?si=0cd4eea6f5ed41d2.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NNHgcEGDF5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NNHgcEGDF5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NNHgcEGDF5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-21T19:23:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FMxNhTBClcR0LjbLBzdsSzK-tqA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1N2vIHYnsIw"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-21T19:27:14Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Shane Dorian&#39;s Friend Survived a Shark Attack",
+        "description": "Taken from JRE #1749 w/Shane Dorian: https://open.spotify.com/episode/5MN9ygZmciChOZZv9kQu5L?si=0cd4eea6f5ed41d2.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1N2vIHYnsIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1N2vIHYnsIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1N2vIHYnsIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-21T19:27:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OsU7sH4QuH-xANTfr2QkRVJhUdM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Cw7MSbLs3Uo"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-10T17:08:26Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Tom Segura Fully Explains His Dunk Injury",
+        "description": "Taken from JRE #1632 w/Tom Segura: https://open.spotify.com/episode/0PtNt3U5pawDwslM0IUTAW?si=d861074fa2a54726.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cw7MSbLs3Uo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cw7MSbLs3Uo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cw7MSbLs3Uo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-10T17:08:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kcNGSP7tPbvnS3PgVmlxP8VnlTQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OM-1-excTUI"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-19T17:10:00Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Anthony Kiedis on Under the Bridge and Addiction",
+        "description": "Taken from JRE #1884 w/Anthony Kiedis: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OM-1-excTUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OM-1-excTUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OM-1-excTUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-19T17:10:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p05VQcOOf-d1UQwlBnWXRGsnSnc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qEWHetW2W4k"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-20T17:11:59Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Action Bronson talks about 130lbs",
+        "description": "Taken from JRE #1637 w/Action Bronson: https://open.spotify.com/episode/1d1WYWULDiZeIrGremIubi?si=b35cd92a5fdd440c.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qEWHetW2W4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qEWHetW2W4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qEWHetW2W4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-20T17:11:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yIv20HJt_rbEfvaNC-D-_UunzLI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rAfwpfUBw1M"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-11T17:15:55Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Tulsi Gabbard on Ukraine and the Military Industrial Complex",
+        "description": "Taken from JRE #1880 w/Tulsi Gabbard: https://open.spotify.com/episode/1DfigKjvKJuOpmod60rFUB?si=b83927fc8c354ceb.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rAfwpfUBw1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rAfwpfUBw1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rAfwpfUBw1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-11T17:15:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q9jUhNhQ-QNMe1ZsAinKZHAXGY8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DsNSF7oBYS0"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-18T22:21:11Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Former Navy Pilot Ryan Graves on His UFO Encounter",
+        "description": "Taken from JRE #1883 w/Ryan Graves: https://open.spotify.com/episode/68t6BZRHenCslyLLaviW1H?si=48ed14f856ed4318.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DsNSF7oBYS0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DsNSF7oBYS0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DsNSF7oBYS0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-18T22:21:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iWV2rlECaGEGNQrc0FTBe8lxa3U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BN3PIGLDscQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-25T17:13:10Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Mark Zuckerberg Answers to Facebook&#39;s Moderation of Controversial Content",
+        "description": "Taken from JRE #1863 w/Mark Zuckerberg: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BN3PIGLDscQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BN3PIGLDscQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BN3PIGLDscQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-25T17:13:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zHbhFoflYVChaw4B71ZUutsjvF4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hFkngrRDdaA"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-10T18:17:10Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Dave Smith Explains the War in Yemen",
+        "description": "Taken from JRE #1775 w/Dave Smith: https://open.spotify.com/episode/3bkmpuktYQqoFUpcNr8LaF?si=7c88cdd6299e4a52.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hFkngrRDdaA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hFkngrRDdaA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hFkngrRDdaA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-10T18:17:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C-Xca5LUfB7vWZfNu9Q78wlNaKc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OsPdhUQ0snE"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-04T18:16:08Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "How Michael Bisping Fought With One Eye",
+        "description": "Taken from JRE MMA Show #119 w/Michael Bisping: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OsPdhUQ0snE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OsPdhUQ0snE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OsPdhUQ0snE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-04T18:16:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2U7TljGwDbcCA2uhLus6M1je5pg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q0V6KIZiXco"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-24T19:00:05Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Joe Rogan Experience #1446 - Bert Kreischer",
+        "description": "Bert Kreischer is a stand-up comedian, actor and podcast host. His new special “Hey Big Boy” is now streaming only on Netflix.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q0V6KIZiXco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q0V6KIZiXco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q0V6KIZiXco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-24T19:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dLjl-IMaeGnWUK9hS0b7A7Np-D0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XZpzwXVmyws"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-02T18:03:44Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Scott Eastwood Talks About His Dad, Clint Eastwood",
+        "description": "Taken from JRE #1659 w/Scott Eastwood: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XZpzwXVmyws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XZpzwXVmyws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XZpzwXVmyws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-02T18:03:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nSBOedxn9N9bDV8Ew4YDU5hDDDs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aLH8UwKG9Qs"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-28T19:34:43Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "The Re-Education of Jordan Peterson: Why His Clinical Psychology License is Under Threat",
+        "description": "Taken from JRE #1933 w/Jordan Peterson: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aLH8UwKG9Qs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aLH8UwKG9Qs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aLH8UwKG9Qs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-28T19:34:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pc-S8njtI0sYEpw0yVjnsTjvHu4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tQ6RdKk0x4M"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-17T18:33:51Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Forrest Galante on the Myth of Giant Anaconda&#39;s in the Amazon",
+        "description": "Taken from JRE #1927 w/Forrest Galante: https://open.spotify.com/episode/5j9zRzzYROKT2GFCTfUbSd?si=ce5a348dfb4f4f8a.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tQ6RdKk0x4M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tQ6RdKk0x4M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tQ6RdKk0x4M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-17T18:33:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rdtDMp3uRKJobwFp-p5e2wB1yFM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SHyu2_yGXYw"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-30T17:59:34Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Alex Honnold on Meeting David Blaine",
+        "description": "Taken from JRE #1626 w/Alex Honnold: https://open.spotify.com/episode/3RprQq9tdNbtNUl04vJvJf?si=427022c826fc42fc 0:00 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SHyu2_yGXYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SHyu2_yGXYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SHyu2_yGXYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-30T17:59:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nmQ7icwCglsVX-lFuDEUfKW485k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "At4kjSXFr-U"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-20T19:00:19Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Joe Rogan Experience #1477 - Tony Hawk",
+        "description": "Tony Hawk is a professional skateboarder, actor, stuntman, and the owner of the skateboard company Birdhouse.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/At4kjSXFr-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/At4kjSXFr-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/At4kjSXFr-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-20T19:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "befb9MqZtXFp3DizqsOSEW63VO8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z4RxDWBCKD8"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-19T17:10:27Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Bert&#39;s Disc Golf Obsession",
+        "description": "Taken from JRE #1821 w/Bert Kreischer & Tony Hinchcliffe: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z4RxDWBCKD8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z4RxDWBCKD8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z4RxDWBCKD8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-19T17:10:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0H0HZac8UEztk9KVqSEp3JC8e3A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i-TqQY_1lEc"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-30T18:45:21Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Neil deGrasse Tyson on the Webb Telescope and the Big Bang",
+        "description": "Taken from JRE #1904 w/Neil deGrasse Tyson: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i-TqQY_1lEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i-TqQY_1lEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i-TqQY_1lEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-30T18:45:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zVaKwraHB8ULDA_FdFvR8fQxcv0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CIWvk3gJ_7E"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-22T19:34:05Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "The Disturbing Reality of Cobalt Mining for Rechargeable Batteries",
+        "description": "Taken from JRE #1914 w/Siddharth Kara: https://open.spotify.com/episode/3ZBdeZLitzqNPBbvv9QIEz?si=341d36bd1fa04f79.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CIWvk3gJ_7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CIWvk3gJ_7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CIWvk3gJ_7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-22T19:34:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SuHgb-dXPKh3-7SDaTY1Lq4R8u0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LIXeZMfau2k"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T19:05:53Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Merlin Tuttle&#39;s Most Dangerous Adventures in the Venezuelan Jungle",
+        "description": "Taken from JRE #1932 w/Merlin Tuttle: https://open.spotify.com/episode/2vbsXeOW4iXkdcizRcGBCo?si=cfc567680d6d4a69.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LIXeZMfau2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LIXeZMfau2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LIXeZMfau2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T19:05:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zZDouFaiOkCiLmAs8wtcou2uYY0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b6Tk7N1qH6M"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-17T18:33:37Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "The Company Trying to Clone Woolly Mammoths",
+        "description": "Taken from JRE #1927 w/Forrest Galante: https://open.spotify.com/episode/5j9zRzzYROKT2GFCTfUbSd?si=033f2dbe5c9b4daf.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b6Tk7N1qH6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b6Tk7N1qH6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b6Tk7N1qH6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-17T18:33:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AaBBo26BLgUXieSwCTkIzw6eM58",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uXCGM-CNnFI"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-27T23:54:22Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Max Holloway Breakdown: The Mentality of a Champion Fighter",
+        "description": "This clip is taken from the JRE MMA Show #103 with Max Holloway.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uXCGM-CNnFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uXCGM-CNnFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uXCGM-CNnFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-27T23:54:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8flJuw8kwtkj2L17cDFU88KXjis",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Li-DZXySJQE"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-17T02:17:01Z",
+        "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "title": "Suzanne Santo &amp; Gary Clark Jr - &quot;Fall for That&quot;",
+        "description": "This clip is taken from the Joe Rogan Experience #1579 with Suzanne Santo & Gary Clark Jr.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Li-DZXySJQE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Li-DZXySJQE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Li-DZXySJQE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PowerfulJRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-17T02:17:01Z"
+      }
+    }
+  ]
+},
+"creatorEight":{
+  "kind": "youtube#searchListResponse",
+  "etag": "jGobUmwnmrspjcog40U5HkGkgbE",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 32,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lBzUILmc-NFTD_JnuPxIVheEs_k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x4nT1wEwy1Y"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-15T12:00:04Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "John Danaher on Renzo Gracie | Lex Fridman Podcast Clips",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=iZRbD7q1n-U Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x4nT1wEwy1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x4nT1wEwy1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x4nT1wEwy1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-15T12:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1R673bV32Jx54-dSLhB1Fbm-YyY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u201Bb0ev88"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-30T17:00:03Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Do we live in a simulation? | David Kipping and Lex Fridman",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=uZN5xjoS6TU Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u201Bb0ev88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u201Bb0ev88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u201Bb0ev88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-30T17:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PynUweqUEpuEl4ifmhLg6YefSuk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Uff06FSkf2I"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-23T12:00:03Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "A day in the life of Jordan Peterson",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=sY8aFSY2zv4 Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uff06FSkf2I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uff06FSkf2I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uff06FSkf2I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-23T12:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kXOccrQf1IQ3Y1cpy_FrqsIl14E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0PinE7ohJj8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-30T03:11:47Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Why some people don&#39;t believe in evolution | Betül Kaçar and Lex Fridman",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NXU_M4030nE Please support this podcast by checking ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0PinE7ohJj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0PinE7ohJj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0PinE7ohJj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-30T03:11:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4DBmZPhHWB_QjI6Y44Ila4OEbDo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5gyaxwE21UE"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T07:00:04Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "We can travel to Alpha Centauri by using black holes | David Kipping and Lex Fridman",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=uZN5xjoS6TU Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5gyaxwE21UE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5gyaxwE21UE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5gyaxwE21UE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T07:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sOUBlTphqfsDM1eGakyfeNNyUcw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uNHQZ_xX_fY"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-05T01:00:04Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Roger Gracie vs Buchecha: The greatest match in jiu jitsu history",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=FhfmGM6hswI Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uNHQZ_xX_fY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uNHQZ_xX_fY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uNHQZ_xX_fY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-05T01:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SdkDDs7A2d5wb6ynIbDRDFnUgnM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UgdagVClsUA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-01T17:00:37Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Conclusive evidence of aliens that would convince scientists | David Kipping and Lex Fridman",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=uZN5xjoS6TU Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UgdagVClsUA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UgdagVClsUA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UgdagVClsUA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-01T17:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hsUyGB1FQIRZsRrV72g1kaiAyjQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bOtxj7pOtN4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-22T02:00:11Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Nuclear Fusion Explained by MIT Scientist",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=aJoRMFWn2Jk Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bOtxj7pOtN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bOtxj7pOtN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bOtxj7pOtN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-22T02:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "439djw33KAmQHotwXxGGwlY--ZE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0_lU-f6oCs4"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-25T02:00:04Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "What is imagination? | Sara Walker and Lee Cronin and Lex Fridman",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=SFxIazwNP_0 Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0_lU-f6oCs4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0_lU-f6oCs4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0_lU-f6oCs4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-25T02:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u8iN-N3PBtKJgTfN8hUAxEnwhrM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Fo_p6lHg-Uo"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-21T23:00:12Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "MIT physicist on aliens and alien civilizations",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=aJoRMFWn2Jk Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fo_p6lHg-Uo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fo_p6lHg-Uo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fo_p6lHg-Uo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-21T23:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eAkt0Qd7hv1CNuNZxcrIfD0XgsM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RI_iji4N7-k"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-31T01:00:03Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Our galaxy will be colonized by robots not humans | David Kipping and Lex Fridman",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=uZN5xjoS6TU Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RI_iji4N7-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RI_iji4N7-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RI_iji4N7-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-31T01:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x2G5Q_BX1O1EwqWAlbzRo1NkAMo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qfo_aorit0U"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-22T01:00:03Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Scientist breaks free-diving world record | Nathalie Cabrol and Lex Fridman",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=yyBosLx7bbM Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qfo_aorit0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qfo_aorit0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qfo_aorit0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-22T01:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YAgJUO3GdmKBtxGV25Jgnjs-PuQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LjWQFJPYVbY"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-06T04:00:04Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Why the Soviet Union collapsed | Fiona Hill and Lex Fridman",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=vNhSCF9i8Qs Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LjWQFJPYVbY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LjWQFJPYVbY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LjWQFJPYVbY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-06T04:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jViEW_JsoHvnHNNvTHpW3zpq-vs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mw6Iob5PJj8"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-28T21:28:49Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Lex Fridman argues about number of alien civilizations with astronomer",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=uZN5xjoS6TU Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mw6Iob5PJj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mw6Iob5PJj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mw6Iob5PJj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-28T21:28:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ff5bXq8AyBgSWjU5Xb23F-4A7MQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-tFvcZ4ZaFk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-25T18:01:16Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Lex Fridman on interviewing Vladimir Putin",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=GvX-heRWFfA Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-tFvcZ4ZaFk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-tFvcZ4ZaFk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-tFvcZ4ZaFk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-25T18:01:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cP3p7kJ8zroH23fPBfA__VK4GbY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mgYqgU9VoY0"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-12T16:30:26Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Dead fish swimming upstream | Russ Tedrake and Lex Fridman",
+        "description": "Full episode with Russ Tedrake (Aug 2020): https://www.youtube.com/watch?v=A22Ej6kb2wo Clips channel (Lex Clips): ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mgYqgU9VoY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mgYqgU9VoY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mgYqgU9VoY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-12T16:30:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p_BLiZJi8GA6RT0VQmkvI2Rk2tU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J_PzTwUKyz4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-21T05:00:03Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Omar Suleiman on Israel and Palestine | Lex Fridman Podcast Clips",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=BOKCNUqbpH0 Please support this podcast by checking ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J_PzTwUKyz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J_PzTwUKyz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J_PzTwUKyz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-21T05:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7nz7D4YkJvBg9l9NqZ3cpu03gDc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SkuLbPFY8Ns"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-17T04:00:54Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Are we alone in the universe? | Avi Loeb and Lex Fridman",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=plcc6E-E1uU Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SkuLbPFY8Ns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SkuLbPFY8Ns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SkuLbPFY8Ns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-17T04:00:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1Ey1jAB38J3MhgQiEcVVTqsaU_c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IwszUy-e_Ig"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-27T04:00:03Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Lex Fridman: Do humans matter for AI?",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=aGBLRlLe7X8 Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IwszUy-e_Ig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IwszUy-e_Ig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IwszUy-e_Ig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-27T04:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "otxEYzXxtd7p8_1jy1yLLNsIFN0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Grz9Y_Y_wrA"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-25T21:00:03Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Was the Civil War about slavery? | Jeremi Suri and Lex Fridman",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=GvX-heRWFfA Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Grz9Y_Y_wrA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Grz9Y_Y_wrA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Grz9Y_Y_wrA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-25T21:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yu5eYc17sWHFy6WvdDhvSAoLU9c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nbO9holQk6k"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-23T21:00:03Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "When will Nuclear Fusion Power Plants become reality? | Dennis Whyte and Lex Fridman",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=aJoRMFWn2Jk Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nbO9holQk6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nbO9holQk6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nbO9holQk6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-23T21:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y0zKaA0zU_Hf-gmiKkX1YYmL9Ug",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "06hSJdPFsXs"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-02T22:00:51Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Thoughts on the Myth of Sisyphus by Albert Camus | Michael Malice and Lex Fridman",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=uykM3NhJbso Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/06hSJdPFsXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/06hSJdPFsXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/06hSJdPFsXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-02T22:00:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "okruQys6vTLHQMTujv7n6j3jvIY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6HWZw1yXBo0"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-10T12:00:07Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Lex Fridman on how James Joyce&#39;s Finnegans Wake was written",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=OaeYUm06in0 Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6HWZw1yXBo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6HWZw1yXBo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6HWZw1yXBo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-10T12:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fsN2vbPQpdOJT4tRC6SyN5MyAng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6PZ8EgNl45g"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-21T13:00:06Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "Best way to protect yourself online | Nicole Perlroth and Lex Fridman",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=hy2G3PhGm-g Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6PZ8EgNl45g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6PZ8EgNl45g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6PZ8EgNl45g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-21T13:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lzdYo4UL6snSNQVFnNSt-s7zC6w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XU5b5me8KLA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T21:00:03Z",
+        "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+        "title": "How the human mind works | Paul Conti and Lex Fridman",
+        "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=jRBksDVs4tg Please support this podcast by checking out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XU5b5me8KLA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XU5b5me8KLA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XU5b5me8KLA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lex Clips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T21:00:03Z"
+      }
+    }
+  ]
+}
+
+}
+
+
+    

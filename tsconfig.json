@@ -16,6 +16,8 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/components/Layout/Login/index.jsx", "src/pages/login.jsx", "src/components/Layout/Login/index.jsx", "lib/magic.js", "lib/magic-client.JS", "src/pages/video/[videoId].js", "src/pages/video/[videoId].js", "src/pages/video/[videoId].js", "src/pages/video/[videoId].js", "src/pages/video/[videoId].js", "lib/videos.jsx", "src/components/Layout/Header/creatorList.js", "lib/create_price.js",],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/components/Layout/Login/index.jsx", "src/pages/login.jsx", "src/components/Layout/Login/index.jsx", "lib/magic.js", "lib/magic-client.JS", "src/pages/video/[videoId].js", "src/pages/video/[videoId].js", "src/pages/video/[videoId].js", "src/pages/video/[videoId].js", "src/pages/video/[videoId].js", "lib/videos.jsx", "src/components/Layout/Header/creatorList.js", "lib/create_price.js", "src/pages/_app.ts",],
   "exclude": ["node_modules"]
+
 }
+
