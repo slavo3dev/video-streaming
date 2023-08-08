@@ -33,10 +33,11 @@ const Video = () => {
   {
     logo
   }
-  let url = isSubscribed
-    ? `https://www.youtube.com/embed/${router.query.videoId}?origin=http://example.com&controls=1&rel=0&disablekb=1&modestbranding=1`
-    : `https://www.youtube.com/embed/${router.query.videoId}?origin=http://example.com&controls=0&rel=0&&disablekb=1&autoplay=1&modestbranding=1&start=10&end=23`
-  let previewTitle = isSubscribed ? <div></div> : <div>Prewiew</div>
+  let url =
+    isSubscribed === "true"
+      ? `https://www.youtube.com/embed/${router.query.videoId}?origin=http://example.com&controls=1&rel=0&disablekb=1&modestbranding=1`
+      : `https://www.youtube.com/embed/${router.query.videoId}?origin=http://example.com&controls=0&rel=0&&disablekb=1&autoplay=1&modestbranding=1&start=10&end=23`
+  let previewTitle = isSubscribed === "true" ? <div></div> : <div>Prewiew</div>
   let VideoPage = (
     <>
       <Header />
@@ -98,4 +99,3 @@ const Video = () => {
   return auth === "loading" ? Spinning : auth ? VideoPage : LoginUser
 }
 export default Video
-

@@ -55,7 +55,7 @@ export const SubscribedSectionLine = () => {
   function subscribedContent(Creator: string, Images: string, State: string) {
     context.setCreator(Creator)
     context.setImage(Images)
-    context.setSubscription(true)
+    context.setSubscription("true")
     context.setState(State)
   }
 
@@ -110,7 +110,7 @@ export const Category1SectionLine = () => {
   ) {
     context.setCreator(Creator)
     context.setImage(Images)
-    context.setSubscription(false)
+    context.setSubscription("false")
     context.setState(State)
   }
 

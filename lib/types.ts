@@ -15,8 +15,8 @@ export type creatorContextType = {
   setPayment: (payment: string) => void
   image: string
   setImage: (image: string) => void
-  subscription: boolean
-  setSubscription: (subscription: boolean) => void
+  subscription: any
+  setSubscription: (subscription: string) => void
 }
 export type CreatorType = {
   state: string
@@ -25,7 +25,7 @@ export type CreatorType = {
   paymentLink: string
   video: string
   photo: StaticImageData
-  subscription: boolean
+  subscription: string
 }
 export type getVideosType = (creator: string) => {
   imgUrl: string
@@ -33,7 +33,7 @@ export type getVideosType = (creator: string) => {
   id: string
   channelName: string
   stateName: string
-  imgCreator:string
+  imgCreator: string
 }[]
 export type cardPropsType = {
   imgUrl: string
@@ -62,7 +62,7 @@ export interface Data {
           videoId: string
         }
         snippet: {
-          imgCreator:string
+          imgCreator: string
           publishedAt: string
           channelId: string
           title: string

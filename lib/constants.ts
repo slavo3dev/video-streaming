@@ -28,7 +28,7 @@ export const constants: Constants = {
     paymentLink: "https://buy.stripe.com/test_9AQbLbdhD8Y5eYM3cf",
     video: "PXPoKLPiSBM",
     photo: Full,
-    subscription: true,
+    subscription: "true",
   },
   creatorTwo: {
     state: "creatorTwo",
@@ -38,7 +38,7 @@ export const constants: Constants = {
     paymentLink: "https://buy.stripe.com/test_9AQbLb4L7del4k89AC",
     video: "cl4Fv61rBxw",
     photo: David,
-    subscription: false,
+    subscription: "false",
   },
   creatorThree: {
     state: "creatorThree",
@@ -48,7 +48,7 @@ export const constants: Constants = {
     paymentLink: "https://buy.stripe.com/test_6oE8yZ0uRcahg2Q5kp",
     video: "3fK7HS-dEFg",
     photo: Charles,
-    subscription: true,
+    subscription: "true",
   },
   creatorFour: {
     state: "creatorFour",
@@ -58,7 +58,7 @@ export const constants: Constants = {
     paymentLink: "https://buy.stripe.com/test_eVa2aB7Xj4HPg2Q6ou",
     video: "aZYKKmZuy7I",
     photo: MMA,
-    subscription: false,
+    subscription: "false",
   },
   creatorFive: {
     state: "creatorFive",
@@ -68,7 +68,7 @@ export const constants: Constants = {
     paymentLink: "https://buy.stripe.com/test_28obLb4L74HP03S7sA",
     video: "qLta9C3gekk",
     photo: Rich,
-    subscription: false,
+    subscription: "false",
   },
   creatorSix: {
     state: "creatorSix",
@@ -78,7 +78,7 @@ export const constants: Constants = {
     paymentLink: "https://buy.stripe.com/test_3csaH7elH2zH3g4cMV",
     video: "p3BJriWAJRw",
     photo: TED,
-    subscription: false,
+    subscription: "false",
   },
   creatorSeven: {
     state: "creatorSeven",
@@ -88,7 +88,7 @@ export const constants: Constants = {
     paymentLink: "https://buy.stripe.com/test_28o2aB2CZ6PX9EsfZ8",
     video: "Li-DZXySJQE",
     photo: Rogan,
-    subscription: false,
+    subscription: "false",
   },
   creatorEight: {
     state: "creatorEight",
@@ -98,6 +98,6 @@ export const constants: Constants = {
     paymentLink: "https://buy.stripe.com/test_6oE3eFelH8Y5g2Q00b",
     video: "x4nT1wEwy1Y",
     photo: Lex,
-    subscription: true,
+    subscription: "true",
   },
 }

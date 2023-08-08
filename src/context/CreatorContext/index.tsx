@@ -18,8 +18,8 @@ const CreatorContext = createContext<creatorContextType>({
   setImage: function (image: string): void {
     throw new Error("error")
   },
-  subscription: true,
-  setSubscription: function (subscription: boolean): void {
+  subscription: "",
+  setSubscription: function (subscription: string): void {
     throw new Error("error")
   },
 })
